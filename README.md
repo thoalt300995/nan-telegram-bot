@@ -100,6 +100,9 @@ cd nan-telegram-bot
 pip3 install telethon
 pip3 install python-dotenv
 
+cp .env.sample .env
+
+# Change value in .env file
 # Run
 python3 main.py
 ```
