@@ -1,6 +1,8 @@
 
 ## Namada telegram bot
 
+BOT : https://t.me/namada_network_bot
+
 ### Command
 ```
 /network - Get network status 
